@@ -41,8 +41,6 @@ status:      "building bots & APIs in the shadows 🥷"
 
 <img src="http://www.movanest.xyz/nTFIjh.jpg" width="280" style="border-radius:16px;">
 
-<sub>place your character art at<br><code>assets/banner-side.png</code></sub>
-
 </td>
 </tr>
 </table>
@@ -149,7 +147,7 @@ status:      "building bots & APIs in the shadows 🥷"
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ItzMeKCeY/ItzMeKCeY/main/assets/footer-art.png" width="220" style="border-radius:16px;">
+<img src="http://www.movanest.xyz/pkdBhI.jpg" width="220" style="border-radius:16px;">
 
 <sub>place closing character art at <code>assets/footer-art.png</code></sub>
 

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:F72585&height=230&section=header&text=TEAM%20AKIRA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=K%20CeY%20%7C%20DevRabbitZz&descAlignY=55&descSize=22&descColor=F72585">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=700&lines=%E3%80%90+K+CeY+%7C+DevRabbitZz+%E3%80%91;Member+of+Team+AKIRA+%F0%9F%90%89;Founder%3A+Chamod;API+Dev+%2B+WhatsApp+%2B+Telegram+Bots" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=700&lines=%E3%80%90+K+CeY+%7C+DevRabbitZz+%E3%80%91;Member+of+Team+AKIRA+%F0%9F%90%89;Founder%3A+Chamod%20Dev;API+Dev+%2B+WhatsApp+%2B+Telegram+Bots" alt="Typing SVG">
 
 &nbsp;
 <img src="https://img.shields.io/badge/PROFILE%20VIEWS-F72585?style=for-the-badge" height="26">
@@ -24,16 +24,16 @@
 name:        "K Sasmitha"
 alias:       "K CeY | DevRabbitZz"
 team:        "Team AKIRA 🐉"
-founder:     "Chamod"
-my_role:     "Core Member / Developer"
+founder:     "Chamod Dev"
+my_role:     "APIs / Scraper"
 personality: "INFJ-A"
 status:      "building bots & APIs in the shadows 🥷"
 ```
 
 - 🔧&nbsp; Building **APIs · WhatsApp Bots · Telegram Bots · Web Apps**
-- 🐉&nbsp; Proud member of **`Team AKIRA`** — founded by **Chamod**
+- 🐉&nbsp; Proud member of **`Team AKIRA`** , founded by **Chamod Dev**
 - 🇱🇰&nbsp; Passionate about **Sri Lankan dev & education tools**
-- 💻&nbsp; Mostly living in **private repos** — public ones are the tip of the iceberg
+- 💻&nbsp; Mostly living in **private repos** , public ones are the tip of the iceberg
 - ⚡&nbsp; Currently obsessed with serverless APIs + self-hosted bots
 
 </td>

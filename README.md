@@ -147,7 +147,7 @@ status:      "building bots & APIs in the shadows 🥷"
 
 <br>
 
-<img src="http://www.movanest.xyz/pkdBhI.jpg" width="220" style="border-radius:16px;">
+<img src="https://i.pinimg.com/1200x/6a/80/88/6a80888fcf82adebf2cc76004dbc0359.jpg" width="220" style="border-radius:16px;">
 
 <sub>place closing character art at <code>assets/footer-art.png</code></sub>
 

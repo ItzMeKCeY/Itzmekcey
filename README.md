@@ -39,7 +39,7 @@ status:      "building bots & APIs in the shadows 🥷"
 </td>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/ItzMeKCeY/ItzMeKCeY/main/assets/banner-side.png" width="280" style="border-radius:16px;">
+<img src="http://www.movanest.xyz/nTFIjh.jpg" width="280" style="border-radius:16px;">
 
 <sub>place your character art at<br><code>assets/banner-side.png</code></sub>
 
@@ -156,9 +156,6 @@ status:      "building bots & APIs in the shadows 🥷"
 </div>
 
 <hr>
-
-<p align="right">Credit: <a href="https://github.com/zillastar">zillastar</a></p>
-<p align="right"><i>Last Edited on: 06/07/2026</i></p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:302b63,100:0f0c29&height=110&section=footer">

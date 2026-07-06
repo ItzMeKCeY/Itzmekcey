@@ -102,13 +102,13 @@ status: "building bots & APIs in the shadows 🥷"
 
 ## 　🎴 ｡･:*:･ﾟ★  GITHUB STATS  ★ﾟ･:*:･｡ 🎴
 
-<img src="https://github-readme-stats.vercel.app/api?username=ksusXLabs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ksusXLabs&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=ItzMeKCeY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeKCeY&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksusXLabs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" width="48%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ksusXLabs&theme=react-dark&hide_border=true&bg_color=0D1117&color=F72585&line=F72585&point=ffffff" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMeKCeY&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" width="48%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzMeKCeY&theme=react-dark&hide_border=true&bg_color=0D1117&color=F72585&line=F72585&point=ffffff" width="48%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ksusXLabs&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" width="90%">
+<img src="https://github-profile-trophy.vercel.app/?username=ItzMeKCeY&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" width="90%">
 
 </div>
 
@@ -118,7 +118,7 @@ status: "building bots & APIs in the shadows 🥷"
 -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ksusXLabs/ksusXLabs/output/github-contribution-grid-snake-dark.svg" width="90%">
+<img src="https://raw.githubusercontent.com/ItzMeKCeY/ItzMeKCeY/output/github-contribution-grid-snake-dark.svg" width="90%">
 
 </div>
 

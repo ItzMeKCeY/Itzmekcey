@@ -138,7 +138,7 @@ status:      "building bots & APIs in the shadows 🥷"
 
 <br>
 
-<img src="http://www.movanest.xyz/pkdBhI.jpg" width="220" style="border-radius:16px;">
+<img src="https://www.movanest.xyz/3rLGvf.png" width="220" style="border-radius:16px;">
 
 
 </div>

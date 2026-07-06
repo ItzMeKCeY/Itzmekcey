@@ -1,30 +1,32 @@
 <div align="center">
 
-<img src="https://i.imgur.com/x6qU1kR.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=220&section=header&text=Team%20AKIRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=K%20CeY%20%7C%20DevRabbitZz&descAlignY=55&descSize=20">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=%E3%80%90+K+CeY+%7C+DevRabbitZz+%E3%80%91;Founder+%40+Team+AKIRA;API+Developer+%7C+Bot+Creator;WhatsApp+%2B+Telegram+%2B+Web" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=%E3%80%90+K+CeY+%7C+DevRabbitZz+%E3%80%91;Member+of+Team+AKIRA+%F0%9F%90%89;Founder%3A+Chamod;API+%2B+WhatsApp+%2B+Telegram+Bot+Dev" alt="Typing SVG">
+
+<img src="https://nekos.best/api/v2/neko" width="230" style="border-radius:15px;">
 
 </div>
 
 <br>
 
 <div>
-<img align="right" width="380" src="https://i.imgur.com/aNBi8Jf.png">
+<img align="right" width="360" src="https://nekos.best/api/v2/kitsune" style="border-radius:15px;">
 
-## 　　🌸 ｡:☆*.  ABOUT ME  .*:☆｡ 🌸
+## 　🌸 ｡:☆*.  ABOUT ME  .*:☆｡ 🌸
 
 ```yaml
 name: "K Sasmitha"
 alias: "K CeY | DevRabbitZz"
 team: "Team AKIRA 🐉"
-role: "Founder"
-teammate: "Chamod"
+founder: "Chamod"
+my_role: "Core Member / Developer"
 personality: "INFJ-A"
 status: "building bots & APIs in the shadows 🥷"
 ```
 
 - 🔧 Building **APIs, WhatsApp Bots, Telegram Bots & Web Apps**
-- 🐉 Founder of **`Team AKIRA`**, working alongside **Chamod**
+- 🐉 Proud member of **`Team AKIRA`** — founded by **Chamod**
 - 🇱🇰 Passionate about **Sri Lankan dev & education tools**
 - 💻 Mostly living in **private repos** — public ones are just the tip of the iceberg
 - ⚡ Currently obsessed with serverless APIs + self-hosted bots
@@ -49,10 +51,6 @@ status: "building bots & APIs in the shadows 🥷"
 • ║  -  𝐓𝐞𝐜𝐡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬
 • ║  -  𝐂𝐮𝐬𝐭𝐨𝐦 𝐁𝐨𝐭 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬
 ```
-
-<div align="center">
-<img src="https://i.imgur.com/x6qU1kR.png" width="60%">
-</div>
 
 ---
 
@@ -88,6 +86,7 @@ status: "building bots & APIs in the shadows 🥷"
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="render">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+<img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" alt="koyeb">
 
 ### 💠 Designing Tools
 
@@ -106,6 +105,21 @@ status: "building bots & APIs in the shadows 🥷"
 <img src="https://github-readme-stats.vercel.app/api?username=ksusXLabs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksusXLabs&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585" width="48%">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksusXLabs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" width="48%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ksusXLabs&theme=react-dark&hide_border=true&bg_color=0D1117&color=F72585&line=F72585&point=ffffff" width="48%">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ksusXLabs&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" width="90%">
+
+</div>
+
+<!--
+  🔻 SNAKE GAME (animated contribution graph) 🔻
+  This needs a one-time GitHub Actions setup — see instructions below the README.
+-->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ksusXLabs/ksusXLabs/output/github-contribution-grid-snake-dark.svg" width="90%">
+
 </div>
 
 ---
@@ -118,20 +132,18 @@ status: "building bots & APIs in the shadows 🥷"
 **❯ 𝐀𝐏𝐈 • 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 • 𝐖𝐞𝐛𝐬𝐢𝐭𝐞**
 **❯ 𝐉𝐮𝐬𝐭 𝐃𝐌 𝐌𝐞. ❞**
 
-<a href="https://wa.me/94" target="_blank">
+<a href="https://wa.me/94768654380" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
 </a>
 <a href="https://t.me/DevRabbitZz" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
 </a>
 
-**WhatsApp:** `@__KCeY`　　**Telegram:** `@DevRabbitZz`
+**WhatsApp:** `@__KC3Y`　　**Telegram:** `@DevRabbitZz`
 
 <br>
 
-<img src="https://i.imgur.com/aNBi8Jf.png" width="180">
-
-*Image by [前髪](https://www.pixiv.net/en/users/35069640)*
+<img src="https://nekos.best/api/v2/waifu" width="200" style="border-radius:15px;">
 
 </div>
 
@@ -141,5 +153,5 @@ status: "building bots & APIs in the shadows 🥷"
 <p align="right"><i>Last Edited on: 06/07/2026</i></p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F72585&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,100:F72585&height=100&section=footer">
 </div>

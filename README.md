@@ -41,6 +41,8 @@ status:      "building bots & APIs in the shadows 🥷"
 
 <img src="http://www.movanest.xyz/nTFIjh.jpg" width="280" style="border-radius:16px;">
 
+<sub>place your character art at<br><code>assets/banner-side.png</code></sub>
+
 </td>
 </tr>
 </table>
@@ -113,20 +115,10 @@ status:      "building bots & APIs in the shadows 🥷"
 
 ## 🎴 &nbsp;github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ItzMeKCeY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeKCeY&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMeKCeY&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=ItzMeKCeY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585&count_private=true" width="48%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzMeKCeY&theme=react-dark&hide_border=true&bg_color=0D1117&color=F72585&line=F72585&point=ffffff" width="48%">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ItzMeKCeY&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" width="92%">
-
-</div>
-
-<div align="center">
-
-<!-- snake game — requires the workflow described below -->
-<img src="https://raw.githubusercontent.com/ItzMeKCeY/ItzMeKCeY/output/github-contribution-grid-snake-dark.svg" width="92%">
 
 </div>
 
@@ -147,13 +139,15 @@ status:      "building bots & APIs in the shadows 🥷"
 
 <br>
 
-<img src="https://i.pinimg.com/1200x/6a/80/88/6a80888fcf82adebf2cc76004dbc0359.jpg" width="220" style="border-radius:16px;">
+<img src="http://www.movanest.xyz/pkdBhI.jpg" width="220" style="border-radius:16px;">
 
-<sub>place closing character art at <code>assets/footer-art.png</code></sub>
 
 </div>
 
 <hr>
+
+<p align="right">Credit: <a href="https://github.com/zillastar">zillastar</a></p>
+<p align="right"><i>Last Edited on: 06/07/2026</i></p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:302b63,100:0f0c29&height=110&section=footer">

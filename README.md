@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f2efe6,100:f2efe6&height=4&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c96b7f,100:c96b7f&height=3&width=800" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2efe6,50:cfc8b4,100:221f1a&height=210&section=header&text=K%20CeY%20%7C%20DevRabbitZz&fontSize=52&fontColor=c96b7f&animation=fadeIn&fontAlignY=38&desc=Team%20AKIRA%20%C3%97%20DTZ%20%E2%80%94%20API%20%26%20Bot%20Developer&descAlignY=58&descSize=16&descColor=8a8270" />
 
@@ -65,7 +65,7 @@ status:      "building in the shadows"
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:cfc8b4,100:cfc8b4&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c96b7f,100:c96b7f&height=2&width=1000" />
 
 ### ⛩️ // current-skills
 
@@ -111,7 +111,7 @@ status:      "building in the shadows"
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:cfc8b4,100:cfc8b4&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c96b7f,100:c96b7f&height=2&width=1000" />
 
 ### 🎴 // github-stats
 
@@ -125,10 +125,10 @@ status:      "building in the shadows"
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzMeKCeY&bg_color=f2efe6&color=221f1a&line=c96b7f&point=0a7d3f&area=true&area_color=c96b7f&hide_border=true" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ItzMeKCeY&theme=gruvbox&no-frame=true&column=4&margin-w=8&margin-h=8" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:cfc8b4,100:cfc8b4&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c96b7f,100:c96b7f&height=2&width=1000" />
 
 <div align="center">
 

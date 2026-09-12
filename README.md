@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c96b7f,100:c96b7f&height=3&width=800" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2efe6,50:cfc8b4,100:221f1a&height=210&section=header&text=K%20CeY%20%7C%20DevRabbitZz&fontSize=52&fontColor=c96b7f&animation=fadeIn&fontAlignY=38&desc=Team%20AKIRA%20%C3%97%20DTZ%20%E2%80%94%20API%20%26%20Bot%20Developer&descAlignY=58&descSize=16&descColor=8a8270" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&pause=900&color=c96b7f&background=00000000&center=true&vCenter=true&width=680&lines=const+dev+%3D+%7B;++alias%3A+%22K+CeY+%7C+DevRabbitZz%22%2C;++team%3A+%22Team+AKIRA%22%2C+also_with%3A+%22DTZ%22%2C;++base%3A+%22Sri+Lanka%22%2C;++status%3A+%22accepting+new+builds%22;%7D%3B" />
-
-<br><br>
+# K CeY <img src="https://img.shields.io/badge/%C3%97-c96b7f?style=flat-square&labelColor=f2efe6" height="24"/> DevRabbitZz
 
 <img src="https://img.shields.io/badge/status-online-0a7d3f?style=flat-square&labelColor=221f1a" />
 <img src="https://komarev.com/ghpvc/?username=ItzMeKCeY&style=flat-square&color=c96b7f&labelColor=221f1a&label=profile+views" />
@@ -16,7 +8,7 @@
 
 </div>
 
-<br>
+---
 
 <table width="100%">
 <tr>
@@ -63,9 +55,7 @@ status:      "building in the shadows"
 </tr>
 </table>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c96b7f,100:c96b7f&height=2&width=1000" />
+---
 
 ### ⛩️ // current-skills
 
@@ -109,26 +99,15 @@ status:      "building in the shadows"
 <img src="https://img.shields.io/badge/Photoshop-221f1a?style=flat-square&logo=adobephotoshop&logoColor=c96b7f" />
 <img src="https://img.shields.io/badge/Illustrator-221f1a?style=flat-square&logo=adobeillustrator&logoColor=c96b7f" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c96b7f,100:c96b7f&height=2&width=1000" />
+---
 
 ### 🎴 // github-stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ItzMeKCeY&show_icons=true&hide_border=true&bg_color=f2efe6&title_color=c96b7f&icon_color=c96b7f&text_color=221f1a&border_color=cfc8b4" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=ItzMeKCeY&hide_border=true&background=f2efe6&ring=c96b7f&fire=c96b7f&currStreakLabel=221f1a&sideLabels=221f1a&currStreakNum=221f1a&sideNums=221f1a&dates=8a8270" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ItzMeKCeY&hide_border=true&background=f2efe6&ring=c96b7f&fire=c96b7f&currStreakLabel=221f1a&sideLabels=221f1a&currStreakNum=221f1a&sideNums=221f1a&dates=8a8270" width="70%" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMeKCeY&layout=compact&hide_border=true&bg_color=f2efe6&title_color=c96b7f&text_color=221f1a&border_color=cfc8b4" width="55%" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ItzMeKCeY&theme=gruvbox&no-frame=true&column=4&margin-w=8&margin-h=8" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c96b7f,100:c96b7f&height=2&width=1000" />
+---
 
 <div align="center">
 
@@ -140,9 +119,5 @@ status:      "building in the shadows"
 <a href="https://t.me/DevRabbitZz"><img src="https://img.shields.io/badge/Telegram-221f1a?style=flat-square&logo=telegram&logoColor=c96b7f" /></a>
 <a href="mailto:itzmekcey@gmail.com"><img src="https://img.shields.io/badge/Gmail-221f1a?style=flat-square&logo=gmail&logoColor=c96b7f" /></a>
 <a href="https://kcey.pages.dev"><img src="https://img.shields.io/badge/Portfolio-221f1a?style=flat-square&logo=vercel&logoColor=c96b7f" /></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:221f1a,50:cfc8b4,100:f2efe6&height=120&section=footer" />
 
 </div>

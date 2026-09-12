@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:F72585&height=230&section=header&text=TEAM%20AKIRA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=K%20CeY%20%7C%20DevRabbitZz&descAlignY=55&descSize=22&descColor=F72585">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f2efe6,100:f2efe6&height=4&width=800" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=700&lines=%E3%80%90+K+CeY+%7C+DevRabbitZz+%E3%80%91;Member+of+Team+AKIRA+%F0%9F%90%89;Founder%3A+Chamod%20Dev;API+Dev+%2B+WhatsApp+%2B+Telegram+Bots" alt="Typing SVG">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2efe6,50:cfc8b4,100:221f1a&height=210&section=header&text=K%20CeY%20%7C%20DevRabbitZz&fontSize=52&fontColor=c96b7f&animation=fadeIn&fontAlignY=38&desc=Team%20AKIRA%20%C3%97%20DTZ%20%E2%80%94%20API%20%26%20Bot%20Developer&descAlignY=58&descSize=16&descColor=8a8270" />
 
-&nbsp;
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-F72585?style=for-the-badge" height="26">
-<img src="https://komarev.com/ghpvc/?username=ItzMeKCeY&style=for-the-badge&color=302b63&label=" height="26">
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge" height="26">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&pause=900&color=c96b7f&background=00000000&center=true&vCenter=true&width=680&lines=const+dev+%3D+%7B;++alias%3A+%22K+CeY+%7C+DevRabbitZz%22%2C;++team%3A+%22Team+AKIRA%22%2C+also_with%3A+%22DTZ%22%2C;++base%3A+%22Sri+Lanka%22%2C;++status%3A+%22accepting+new+builds%22;%7D%3B" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/status-online-0a7d3f?style=flat-square&labelColor=221f1a" />
+<img src="https://komarev.com/ghpvc/?username=ItzMeKCeY&style=flat-square&color=c96b7f&labelColor=221f1a&label=profile+views" />
+<img src="https://img.shields.io/badge/team-AKIRA%20%C3%97%20DTZ-c96b7f?style=flat-square&labelColor=221f1a" />
 
 </div>
 
@@ -16,135 +20,129 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-## 🌸 &nbsp;about me
+### 🌸 // about-me
 
 ```yaml
 name:        "K Sasmitha"
 alias:       "K CeY | DevRabbitZz"
-team:        "Team AKIRA 🐉"
+team:        "Team AKIRA"
+also_with:   "DTZ - Dark Tech Zone"
+dtz_owner:   "Udmodz (Udhanika Disanayake)"
 founder:     "Chamod Dev"
-my_role:     "APIs / Scraper"
+base:        "Sri Lanka, Polonnaruwa"
+role:        "API & Bot Developer"
 personality: "INFJ-A"
-status:      "building bots & APIs in the shadows 🥷"
+portfolio:   "kcey.pages.dev"
+status:      "building in the shadows"
 ```
 
-- 🔧&nbsp; Building **APIs · WhatsApp Bots · Telegram Bots · Web Apps**
-- 🐉&nbsp; Proud member of **`Team AKIRA`** , founded by **Chamod Dev**
-- 🇱🇰&nbsp; Passionate about **Sri Lankan dev & education tools**
-- 💻&nbsp; Mostly living in **private repos** , public ones are the tip of the iceberg
-- ⚡&nbsp; Currently obsessed with serverless APIs + self-hosted bots
+- 🔧 Building **APIs · WhatsApp bots · Telegram bots · web apps**
+- 🐉 Core member of **Team AKIRA**, founded by **Chamod Dev**
+- ⚔️ Also run with **DTZ**, led by **Udmodz — Udhanika Disanayake**
+- 🇱🇰 Focused on Sri Lankan dev & education tooling
+- 💻 Most work lives in private repos — public ones are the surface
+- 🌱 Currently expanding into **C#** and **Java**
 
 </td>
-<td width="40%" align="center">
+<td width="45%" valign="top">
 
-<img src="http://www.movanest.xyz/nTFIjh.jpg" width="280" style="border-radius:16px;">
+### 📡 // signal
+
+| | |
+|---|---|
+| 🌐 portfolio | [kcey.pages.dev](https://kcey.pages.dev) |
+| 📧 email | itzmekcey@gmail.com |
+| 💬 telegram | [@DevRabbitZz](https://t.me/DevRabbitZz) |
+| 📱 whatsapp | [+94 752 425 5527](https://wa.me/947524255527) |
+| 📍 base | Sri Lanka, Polonnaruwa |
+| 🕒 local time | UTC+05:30 |
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br>
 
-╔═══════════════════════════════════════════╗
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:cfc8b4,100:cfc8b4&height=2&width=1000" />
 
-### 　║ 𝗞 𝗖𝗲𝗬 &nbsp;|&nbsp; 𝗗𝗲𝘃𝗥𝗮𝗯𝗯𝗶𝘁𝗭𝘇 ║
+### ⛩️ // current-skills
 
-╚═══════════════════════════════════════════╝
+**languages**
 
-</div>
+<img src="https://img.shields.io/badge/JavaScript-c96b7f?style=flat-square&logo=javascript&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/TypeScript-c96b7f?style=flat-square&logo=typescript&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/Python-c96b7f?style=flat-square&logo=python&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/HTML5-c96b7f?style=flat-square&logo=html5&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/CSS3-c96b7f?style=flat-square&logo=css3&logoColor=f2efe6&labelColor=221f1a" />
 
-<div align="center">
+**// currently learning**
 
-| | |
-|:--|:--|
-| 🔹 | **𝐀𝐏𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭** |
-| 🔹 | **𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭𝐬** |
-| 🔹 | **𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐁𝐨𝐭𝐬** |
-| 🔹 | **𝐖𝐞𝐛𝐬𝐢𝐭𝐞𝐬 & 𝐖𝐞𝐛 𝐀𝐩𝐩𝐬** |
-| 🔹 | **𝐓𝐞𝐜𝐡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬** |
-| 🔹 | **𝐂𝐮𝐬𝐭𝐨𝐦 𝐁𝐨𝐭 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬** |
+<img src="https://img.shields.io/badge/C%23-8a8270?style=flat-square&logo=csharp&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/Java-8a8270?style=flat-square&logo=openjdk&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/Next.js-8a8270?style=flat-square&logo=next.js&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/Go-8a8270?style=flat-square&logo=go&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/PostgreSQL-8a8270?style=flat-square&logo=postgresql&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/Rust-8a8270?style=flat-square&logo=rust&logoColor=f2efe6&labelColor=221f1a" />
 
-</div>
+**frameworks & runtime**
 
----
+<img src="https://img.shields.io/badge/Node.js-0a7d3f?style=flat-square&logo=node.js&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/Express-0a7d3f?style=flat-square&logo=express&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/React-0a7d3f?style=flat-square&logo=react&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/MongoDB-0a7d3f?style=flat-square&logo=mongodb&logoColor=f2efe6&labelColor=221f1a" />
+<img src="https://img.shields.io/badge/Baileys-0a7d3f?style=flat-square&logo=whatsapp&logoColor=f2efe6&labelColor=221f1a" />
 
-<div align="center">
+**deploy targets**
 
-## ⛩️ &nbsp;current skills
+<img src="https://img.shields.io/badge/Netlify-221f1a?style=flat-square&logo=netlify&logoColor=c96b7f" />
+<img src="https://img.shields.io/badge/Cloudflare-221f1a?style=flat-square&logo=cloudflare&logoColor=c96b7f" />
+<img src="https://img.shields.io/badge/Render-221f1a?style=flat-square&logo=render&logoColor=c96b7f" />
+<img src="https://img.shields.io/badge/Vercel-221f1a?style=flat-square&logo=vercel&logoColor=c96b7f" />
+<img src="https://img.shields.io/badge/Docker-221f1a?style=flat-square&logo=docker&logoColor=c96b7f" />
+<img src="https://img.shields.io/badge/Koyeb-221f1a?style=flat-square&logo=koyeb&logoColor=c96b7f" />
 
-### 💠 Languages
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+**design tools**
 
-**🌱 currently learning**
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-
-### 💠 Frameworks & Libraries
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-### 💠 Deployment & Hosting
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white">
-
-### 💠 Designing Tools
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-
-</div>
-
----
-
-<div align="center">
-
-## 🎴 &nbsp;github stats
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzMeKCeY&theme=react-dark&hide_border=true&bg_color=0D1117&color=F72585&line=F72585&point=ffffff" width="48%">
-
-<div align="center"> <!-- snake game — requires the workflow described below --><img src="https://raw.githubusercontent.com/ItzMeKCeY/ItzMeKCeY/output/github-contribution-grid-snake-dark.svg" width="92%"> </div>
-
-
-</div>
-
----
-
-<div align="center">
-
-## 💌 &nbsp;contact me
-
-**❯ 𝐍𝐞𝐞𝐝 𝐚 𝐂𝐮𝐬𝐭𝐨𝐦 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐁𝐨𝐭 ?**
-**❯ 𝐀𝐏𝐈 • 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 • 𝐖𝐞𝐛𝐬𝐢𝐭𝐞**
-**❯ 𝐉𝐮𝐬𝐭 𝐃𝐌 𝐌𝐞. ❞**
-
-<a href="https://wa.me/94768654380" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://t.me/DevRabbitZz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
-**WhatsApp:** `@__KC3Y`&nbsp;&nbsp;&nbsp;&nbsp;**Telegram:** `@DevRabbitZz`
+<img src="https://img.shields.io/badge/Figma-221f1a?style=flat-square&logo=figma&logoColor=c96b7f" />
+<img src="https://img.shields.io/badge/Photoshop-221f1a?style=flat-square&logo=adobephotoshop&logoColor=c96b7f" />
+<img src="https://img.shields.io/badge/Illustrator-221f1a?style=flat-square&logo=adobeillustrator&logoColor=c96b7f" />
 
 <br>
 
-<img src="https://www.movanest.xyz/3rLGvf.png" width="220" style="border-radius:16px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:cfc8b4,100:cfc8b4&height=2&width=1000" />
 
-
-</div>
-
-<hr>
+### 🎴 // github-stats
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:302b63,100:0f0c29&height=110&section=footer">
+<img src="https://github-readme-stats.vercel.app/api?username=ItzMeKCeY&show_icons=true&hide_border=true&bg_color=f2efe6&title_color=c96b7f&icon_color=c96b7f&text_color=221f1a&border_color=cfc8b4" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ItzMeKCeY&hide_border=true&background=f2efe6&ring=c96b7f&fire=c96b7f&currStreakLabel=221f1a&sideLabels=221f1a&currStreakNum=221f1a&sideNums=221f1a&dates=8a8270" width="49%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMeKCeY&layout=compact&hide_border=true&bg_color=f2efe6&title_color=c96b7f&text_color=221f1a&border_color=cfc8b4" width="55%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzMeKCeY&bg_color=f2efe6&color=221f1a&line=c96b7f&point=0a7d3f&area=true&area_color=c96b7f&hide_border=true" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:cfc8b4,100:cfc8b4&height=2&width=1000" />
+
+<div align="center">
+
+### 💌 // open-a-channel
+
+`> Need a custom Telegram bot? API? WhatsApp bot? Website? Just DM me.`
+
+<a href="https://wa.me/947524255527"><img src="https://img.shields.io/badge/WhatsApp-221f1a?style=flat-square&logo=whatsapp&logoColor=0a7d3f" /></a>
+<a href="https://t.me/DevRabbitZz"><img src="https://img.shields.io/badge/Telegram-221f1a?style=flat-square&logo=telegram&logoColor=c96b7f" /></a>
+<a href="mailto:itzmekcey@gmail.com"><img src="https://img.shields.io/badge/Gmail-221f1a?style=flat-square&logo=gmail&logoColor=c96b7f" /></a>
+<a href="https://kcey.pages.dev"><img src="https://img.shields.io/badge/Portfolio-221f1a?style=flat-square&logo=vercel&logoColor=c96b7f" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:221f1a,50:cfc8b4,100:f2efe6&height=120&section=footer" />
+
 </div>
